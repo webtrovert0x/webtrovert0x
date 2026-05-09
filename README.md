@@ -1,48 +1,36 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Webtrovert0x%20🚀&fontAlign=50&fontAlignY=35&color=0:0f0f0f,100:2563eb&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=WEBTROVERT0X&fontAlign=50&fontAlignY=35&color=0:000000,100:2563eb&fontColor=ffffff"/>
 
 <h1 align="center">Hey 👋 I'm Philip</h1>
 
-<p align="center">
-Software Development Student • Web3 Explorer • Solidity Learner
-</p>
+<h3 align="center">
+MERN Stack Developer • Full Stack Developer • Web3 Explorer
+</h3>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Frontend+Developer;Learning+Solidity+Smart+Contracts;Web3+Builder;React+Developer;Open+Source+Learner;Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Backend+Focused+Full+Stack+Developer;Learning+Solidity+%26+Smart+Contracts;Building+Scalable+Web+Applications;Open+Source+Explorer)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🎓 Software Development Student
-- ⚡ Exploring Web3 & Blockchain Development
-- ⛓️ Learning Solidity Smart Contracts
-- 🛠️ Building projects with React & JavaScript
-- 🚀 Interested in Open Source & Decentralized Tech
+```js
+const philip = {
+  username: "webtrovert0x",
 
----
+  stack: {
+    frontend: ["React", "HTML", "CSS", "Bootstrap", "JavaScript"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB", "Firebase"],
+    tools: ["Git", "GitHub", "REST APIs"]
+  },
 
-## ⚒️ Tech Stack
+  learning: ["Solidity", "Smart Contracts", "Web3"],
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web3-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge"/>
-
-</div>
-
----
+  currentFocus: "Building Full Stack & Web3 Projects"
+}
 
 ## 📊 GitHub Stats
 
@@ -69,7 +57,8 @@ Software Development Student • Web3 Explorer • Solidity Learner
 ## 🚀 Current Focus
 
 ```bash
-> Learning Solidity
-> Building Smart Contracts
-> Exploring Web3 Ecosystems
-> Improving Frontend Skills
+> Full Stack Development
+> Backend Engineering
+> Solidity Smart Contracts
+> Web3 Development
+> Open Source Contributions
