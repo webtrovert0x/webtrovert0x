@@ -4,13 +4,13 @@
 
 # Hey 👋 I'm Philip
 
-### Full Stack Developer • MERN Stack • Web3 Learner
+### Full Stack Developer • MERN Stack • Web3 Enthusiat
 
 <p>
 Building scalable web applications while exploring Solidity and smart contracts.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+Focused+Developer;Learning+Solidity+and+Web3;Open+Source+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+Focused+Developer;+Solidity+and+Web3;Open+Source+Explorer;Geek)](https://git.io/typing-svg)
 
 </div>
 
