@@ -4,7 +4,7 @@
 
 # Hey 👋 I'm Philip
 
-### Full Stack Developer • MERN Stack • Web3 Enthusiat
+### Full Stack Developer • Solidity • Web3 Enthusiat
 
 <p>
 Building scalable web applications while exploring Solidity and smart contracts.
