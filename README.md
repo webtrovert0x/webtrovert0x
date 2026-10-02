@@ -22,17 +22,26 @@ Building scalable web applications while exploring Solidity and smart contracts.
 const philip = {
   username: "webtrovert0x",
 
+  role: "Full Stack Developer",
+
   techStack: {
-    frontend: ["React", "JavaScript", "HTML", "CSS", "Bootstrap"],
+    frontend: ["React", "Next.js", "JavaScript", "TypeScript", "HTML", "CSS", "Tailwind"],
     backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "Firebase"]
+    database: ["MongoDB", "Firebase"],
+    blockchain: ["Solidity", "Foundry", "Hardhat", "Wagmi", "Viem"],
+    tools: ["Git", "GitHub", "Vercel", "Paystack"]
   },
 
-  currentlyLearning: [
-    "Solidity",
-    "Smart Contracts",
-    "Web3"
+  building: [
+    "Full-stack applications",
+    "Smart contracts",
+    "Web3 products",
+    "Blockchain infrastructure"
   ],
 
-  currentFocus: "Full Stack & Backend Development"
-}
+  finding: [
+    "Peace"
+  ],
+
+   "Build. Learn. Ship. Repeat."
+};
