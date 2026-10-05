@@ -7,7 +7,7 @@
 ### Full Stack Developer • Solidity • Web3 Enthusiat
 
 <p>
-Building scalable web applications while exploring Solidity and smart contracts.
+Building scalable web applications with Solidity and smart contracts.
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+Focused+Developer;+Solidity+and+Web3;Open+Source+Explorer;Geek)](https://git.io/typing-svg)
